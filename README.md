@@ -86,7 +86,6 @@ TODO: Write 3–4 short points about yourself.
 ---
 
 ### Languages & stats
-
 <div align="center">
 
   <!--
@@ -119,7 +118,7 @@ TODO:
 - You can read and follow one by one.
 -->
 
-1. Replace **all occurrences** of `gaureshpai` with **your GitHub username**.  
+1. Replace **all occurrences** of `ananya s ` with **your GitHub username**.  
 2. Update LinkedIn / Twitter / Portfolio links to YOUR actual links (or remove if not applicable).  
 3. Edit the **About me** section to describe YOU.  
 4. Push your changes and check how your profile looks on your GitHub profile page.  
